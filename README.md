@@ -1,2 +1,3 @@
 # Responsive-Landing-page
-respon
+responsive lading page with  html/scss 
+## link : https://draddo11.github.io/Responsive-Landing-page/
